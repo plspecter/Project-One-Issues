@@ -1,0 +1,11 @@
+#body {
+    background-image: url( ../images/airplaneSmall.jpg); 
+    background: no-repeat;
+    z-index: 1;
+}
+
+#icon {
+    position: static;
+    top: 20px
+}
+
